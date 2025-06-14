@@ -1,0 +1,5 @@
+/api-server/node_modules
+/engine/node_modules
+/market-maker/node_modules
+/websockets/node_modules
+notes.md
